@@ -21,7 +21,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <div className="absolute bg-white shadow-sm rounded-lg border border-gray-300 w-[7%] h-[97%] flex flex-col items-center py-4">
+    <div className="absolute bg-white shadow-sm rounded-lg border border-gray-300 w-[7%] h-[91%] flex flex-col items-center py-4">
       {menuItems.map((item, index) => (
         <div
           key={index}
@@ -30,7 +30,7 @@ const Sidebar = () => {
           } hover:bg-blue-100 hover:text-gray-900`}
         >
           <img src={item.icon} alt={item.name} className="w-[25px] h-[24px] mb-1" />
-          <span className="text-gray-900 text-xs flex items-center text-center tracking-wide font-red-hat">
+          <span className="text-grey-900 text-xs flex items-center text-center tracking-wide font-red-hat">
             {item.name}
           </span>
         </div>
