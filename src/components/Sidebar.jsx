@@ -21,7 +21,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <div className="absolute bg-white shadow-sm rounded-lg border border-gray-300 w-[7%] h-[92%] flex flex-col items-center py-4">
+    <div className="absolute bg-white shadow-sm rounded-lg border border-gray-300 w-[7%] h-[94%] flex flex-col items-center py-4">
       {menuItems.map((item, index) => (
         <div
           key={index}

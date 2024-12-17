@@ -43,7 +43,7 @@ const ToDoList = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center absolute left-[68%] top-[14%] w-[32%]">
+    <div className="flex flex-col items-center justify-center absolute left-[68%] top-[15%] w-[32%] h-[82%]">
       <div className="bg-white shadow-md rounded-lg p-6 w-[90%]">
         <div className="flex justify-between">
           <div className="flex flex-col justify-between">

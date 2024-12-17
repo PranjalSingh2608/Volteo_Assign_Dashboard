@@ -57,7 +57,7 @@ const Card3 = () => {
   ];
 
   return (
-    <div className="absolute w-[33%] h-[80%] bg-[#EBF4FF] shadow-[0px_0px_1px_rgba(40,41,61,0.48)] rounded-[12px] p-4 left-[36%] top-[14%] flex flex-col">
+    <div className="absolute w-[33%] h-[84%] bg-[#EBF4FF] shadow-[0px_0px_1px_rgba(40,41,61,0.48)] rounded-[12px] p-4 left-[36%] top-[14%] flex flex-col">
       <div className="h-[22px] text-black font-medium text-[12px] leading-[22px] tracking-[0.2px] flex justify-between my-2 ml-4">
         <div className="font-red-hat text-black font-bold text-[20px] flex flex-col">
           <div className="font-red-hat font-bold text-[20px] leading-[36px] text-[#133774]">Daily Stream</div>
