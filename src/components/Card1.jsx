@@ -4,7 +4,7 @@ import badge from  '../assets/badge.png';
 
 const Card1 = () => {
   return (
-    <div className="absolute w-[27%] bg-white shadow-[0px_0px_1px_rgba(40,41,61,0.48)] rounded-[12px] p-4  left-[8.4%] top-[14%] flex flex-col">
+    <div className="absolute w-[27%] bg-white shadow-[0px_0px_1px_rgba(40,41,61,0.48)] rounded-[12px] p-4 left-[8.4%] top-[14%] flex flex-col">
       
 
       <div className="  h-[22px]  text-black font-medium text-[12px] leading-[22px] tracking-[0.2px] flex justify-between bg-white place-between my-1 ml-4  ">
