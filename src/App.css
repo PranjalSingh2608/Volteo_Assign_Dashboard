@@ -53,8 +53,6 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
-  overflow: auto;
-  max-height: 100vh;
 }
 
 .App {
